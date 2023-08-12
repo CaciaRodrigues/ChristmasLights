@@ -1,0 +1,34 @@
+  @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&display=swap');
+
+:root {
+    /* Fonte */
+    --main-font: 'Nunito', sans-serif;
+    /* Cores Base */
+    --black-green: #000302;
+    --dark-green: #03140e;
+    --mid-dark-green: #041b13;
+    --mid-green: #062e20;
+    --green: #073525;
+    --mid-light-green: #094430;
+    --light-green: #106b4b;
+    --white-green: #ccfcec;
+    /* Cores Luzes: Coloridas */
+    --red-light: #a11d45; 
+    --yellow-light: #fdac33; 
+    --green-light: #2d6a58;
+    --blue-light: #184977;
+    /* Cores Luzes: Brancas */
+    --lime-white: #f2ffe4;
+    --warm-white: #fdece0;
+    --cool-white: #e8f3fd;
+    --pink-white: #ffe2e9;
+    /* Cores Luzes: Roxas */
+    --dark-purple: #21013f;
+    --mid-purple: #390669;
+    --light-purple: #531592;
+    /* Tamanhos Padrão */
+    --size-big: 32px;
+    --size-medium: 24px;
+    --size-standard: 16px;
+    --size-small: 14px;
+}
